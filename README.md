@@ -2,7 +2,22 @@
 
 Este projeto foi feito na IDEA IntelliJ [^1].
 
-Objetivo: Estudar e praticar Métodos Probabilísticos (algoritmo Naive Bayes)
+Objetivo: Estudar e praticar Métodos Probabilísticos
+
+## Teorema de Bayes
+
+Matematicamente, o Teorema de Bayes é:
+
+\[
+P(A|B) = \frac{P(B|A) \times P(A)}{P(B)}
+\]
+
+Onde:
+- \( P(A|B) \) é a probabilidade de \( A \) acontecer dado que \( B \) aconteceu.
+- \( P(B|A) \) é a probabilidade de observar \( B \) dado que \( A \) é verdadeiro.
+- \( P(A) \) é a probabilidade inicial de \( A \) ocorrer.
+- \( P(B) \) é a probabilidade de \( B \) ocorrer.
+
 
 ## Explicação do Código
 
